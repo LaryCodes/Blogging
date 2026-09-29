@@ -1,0 +1,37 @@
+[
+  {
+    "id": "cat-ai",
+    "slug": "artificial-intelligence",
+    "title": "Artificial Intelligence",
+    "description": "Practical guidance on adopting AI and machine learning to automate work, augment teams, and unlock new value for the business.",
+    "color": "#2563eb"
+  },
+  {
+    "id": "cat-cyber",
+    "slug": "cybersecurity",
+    "title": "Cybersecurity",
+    "description": "Strategies to protect data, systems, and people, from zero-trust architectures to incident response and regulatory compliance.",
+    "color": "#dc2626"
+  },
+  {
+    "id": "cat-cloud",
+    "slug": "cloud-computing",
+    "title": "Cloud Computing",
+    "description": "Cloud adoption, migration patterns, cost optimization, and building resilient infrastructure that scales with demand.",
+    "color": "#0891b2"
+  },
+  {
+    "id": "cat-software",
+    "slug": "software-development",
+    "title": "Software Development",
+    "description": "Engineering practices, architecture, and delivery methods that help teams ship reliable software faster.",
+    "color": "#7c3aed"
+  },
+  {
+    "id": "cat-digital",
+    "slug": "digital-transformation",
+    "title": "Digital Transformation",
+    "description": "Aligning technology, process, and culture so established businesses can modernize with confidence.",
+    "color": "#059669"
+  }
+]

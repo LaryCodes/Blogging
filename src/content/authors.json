@@ -1,0 +1,49 @@
+[
+  {
+    "id": "author-1",
+    "slug": "priya-nair",
+    "name": "Priya Nair",
+    "role": "Principal AI Consultant",
+    "bio": "Priya helps mid-market companies move AI projects from proof-of-concept to production. She has led machine learning programs across manufacturing, retail, and financial services, and focuses on the operational side of AI: data quality, governance, and measurable ROI.",
+    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=400&q=80",
+    "social": {
+      "linkedin": "https://www.linkedin.com/",
+      "twitter": "https://twitter.com/"
+    }
+  },
+  {
+    "id": "author-2",
+    "slug": "daniel-osei",
+    "name": "Daniel Osei",
+    "role": "Head of Cybersecurity",
+    "bio": "Daniel is a security practitioner with over a decade of experience defending enterprise networks. He specializes in zero-trust architecture, threat modeling, and building security programs that align with business risk rather than fear.",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80",
+    "social": {
+      "linkedin": "https://www.linkedin.com/",
+      "website": "https://example.com"
+    }
+  },
+  {
+    "id": "author-3",
+    "slug": "elena-rossi",
+    "name": "Elena Rossi",
+    "role": "Cloud & Platform Architect",
+    "bio": "Elena designs cloud platforms that balance cost, reliability, and developer velocity. She has migrated dozens of workloads to AWS and Azure and is a strong advocate for infrastructure as code and pragmatic FinOps.",
+    "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=400&q=80",
+    "social": {
+      "linkedin": "https://www.linkedin.com/",
+      "twitter": "https://twitter.com/"
+    }
+  },
+  {
+    "id": "author-4",
+    "slug": "marcus-lee",
+    "name": "Marcus Lee",
+    "role": "Lead Software Engineer",
+    "bio": "Marcus writes about the craft of building software: clean architecture, testing strategy, and delivery pipelines. He believes the best engineering decisions are the ones that keep teams shipping safely for years.",
+    "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=400&q=80",
+    "social": {
+      "linkedin": "https://www.linkedin.com/"
+    }
+  }
+]
